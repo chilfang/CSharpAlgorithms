@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.exe
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.deps.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.runtimeconfig.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.dll
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\netcoreapp3.1\CSharpAlgorithms.pdb
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.dll
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.pdb
+C:\Users\Administrator\source\repos\VS 2019\Evit\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\netcoreapp3.1\CSharpAlgorithms.genruntimeconfig.cache

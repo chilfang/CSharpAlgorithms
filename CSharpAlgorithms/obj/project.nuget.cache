@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ax2ERS/meJQvlcsWK0YuXCTUZKA/CvHmD48Owh3bjSS4bWYvlli09W2sI9p1Z8dRyCGA2NADjyO+2F41UUSqQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\VS 2019\\Evit\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
