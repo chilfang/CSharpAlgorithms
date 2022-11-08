@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace CSharpAlgorithms.TestingHelpers {
     class IntPopulator {
@@ -14,7 +15,7 @@ namespace CSharpAlgorithms.TestingHelpers {
                 output[i] = random.Next(min, max);
 
                 if (unique && i > 0) {
-                    while (output[i - 1] == output[i]) {
+                    while (output[..i].Any(x => x == output[i])) {
                         output[i] = random.Next(min, max);
                     }
                 }
