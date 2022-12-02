@@ -23,5 +23,15 @@ namespace CSharpAlgorithms.TestingHelpers {
 
             return output;
         }
+
+        public static int[] Sorted(int start, int end, int spacing = 1) {
+            int[] output = new int[(end - start) / spacing + 1];
+
+            for (int i = 0; i < output.Length; i += spacing) {
+                output[i] = start + i;
+            }
+
+            return output;
+        }
     }
 }
